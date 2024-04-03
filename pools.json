@@ -1325,6 +1325,14 @@
         "1BGFwRzjCfRR7EvRHnzfHyFjGR8XiBDFKa" : {
             "name" : "PEGA Pool",
             "link" : "https://www.pega-pool.com/"
+        },
+        "3Awm3FNpmwrbvAFVThRUFqgpbVuqWisni9" : {
+            "name" : "SecPool",
+            "link" : "https://www.secpool.com"
+        },
+        "14VkxDwSAUWrzYTxV49HnYhKLWTJ3pCoUS" : {
+            "name" : "WhitePool",
+            "link" : ""
         }
     }
 }
