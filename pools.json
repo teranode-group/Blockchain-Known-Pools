@@ -591,6 +591,10 @@
         "WhitePool" : {
             "name" : "WhitePool",
             "link" : ""
+        },
+        "BitFuFu" : {
+            "name" : "BitFuFuPool",
+            "link" : "https://www.bitfufu.com/pool"
         }
     },
     "payout_addresses" : {
@@ -1349,6 +1353,10 @@
         "37dvwZZoT3D7RXpTCpN2yKzMmNs2i2Fd1n" : {
             "name" : "OCEAN",
             "link" : "https://ocean.xyz/"
+        },
+        "3JP3zF7LoeoAotqkNGdvX5szUyNPwd937d" : {
+            "name" : "BitFuFuPool",
+            "link" : "https://www.bitfufu.com/pool"
         }
     }
 }
