@@ -595,6 +595,10 @@
         "BitFuFu" : {
             "name" : "BitFuFuPool",
             "link" : "https://www.bitfufu.com/pool"
+        },
+        "SecPool": {
+            "name": "SecPool",
+            "link": "https://www.secpool.com/"
         }
     },
     "payout_addresses" : {
