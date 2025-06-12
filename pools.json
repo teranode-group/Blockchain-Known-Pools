@@ -596,8 +596,8 @@
             "name" : "BitFuFuPool",
             "link" : "https://www.bitfufu.com/pool"
         },
-        "SecPool": {
-            "name": "SecPool",
+        "SECPOOL": {
+            "name": "SECPOOL",
             "link": "https://www.secpool.com/"
         }
     },
