@@ -599,6 +599,10 @@
         "SECPOOL": {
             "name": "SECPOOL",
             "link": "https://www.secpool.com/"
+        },
+        "OCEAN.XYZ" : {
+            "name" : "OCEAN",
+            "link" : "https://ocean.xyz/"
         }
     },
     "payout_addresses" : {
