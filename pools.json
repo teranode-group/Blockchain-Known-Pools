@@ -232,6 +232,10 @@
             "name" : "NiceHash",
             "link" : "https://solo.nicehash.com/"
         },
+        "/NiceHash/" : {
+            "name" : "NiceHash",
+            "link" : "https://www.nicehash.com/"
+        },
         "/BitClub Network/" : {
             "name" : "BitClub",
             "link" : "https://bitclubpool.com/"
@@ -603,6 +607,14 @@
         "OCEAN.XYZ" : {
             "name" : "OCEAN",
             "link" : "https://ocean.xyz/"
+        },
+        "Titan.io" : {
+            "name" : "Titan",
+            "link" : "https://titan.io/"
+        },
+        "Mining-Dutch" : {
+            "name" : "Mining-Dutch",
+            "link" : "https://www.mining-dutch.nl/"
         }
     },
     "payout_addresses" : {
@@ -1365,6 +1377,26 @@
         "3JP3zF7LoeoAotqkNGdvX5szUyNPwd937d" : {
             "name" : "BitFuFuPool",
             "link" : "https://www.bitfufu.com/pool"
+        },
+        "3GdjWJdkJhtkxRZ3Ns1LstaoHNMBW8XsvU" : {
+            "name" : "Mining Squared",
+            "link" : "https://pool.bsquared.network/"
+        },
+        "3AvXzTUat4p6Qf6ZLnRNvB3mDLjp3fNmjJ" : {
+            "name" : "Mining Squared",
+            "link" : "https://pool.bsquared.network/"
+        },
+        "33SAB6pzbhEGPbfY6NVgRDV7jVfspZ3A3Z" : {
+            "name" : "Carbon Negative",
+            "link" : ""
+        },
+        "3KZDwmJHB6QJ13QPXHaW7SS3yTESFPZoxb" : {
+            "name" : "Carbon Negative",
+            "link" : ""
+        },
+        "1DnPPFQPrfyNTiHPXhDFyqNnW9T62GEhB1" : {
+            "name" : "luckyPool",
+            "link" : ""
         }
     }
 }
